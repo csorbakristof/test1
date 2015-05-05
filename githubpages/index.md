@@ -1,3 +1,8 @@
+---
+title: Index page
+layout: post
+---
+
 # Index page on the GitHub Pages #
 
 This is the index of the GitHub Pages for the Test1 repository.
